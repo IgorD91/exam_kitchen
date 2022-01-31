@@ -1,0 +1,10 @@
+{
+    "name": "Igor",
+    "email": "test@test.com",
+    "phone": "1234567890",
+    "date": "2022-02-15",
+    "time": "01:30",
+    "productName": ["Beef", "Beef", "Mango Chicken", "Skewered pork", "Pancakes", "Baklava"],
+    "text": "Test"
+  }
+  
